@@ -2,7 +2,7 @@
 ListView侧滑删除
 
 #### 效果图：
-     ![avatar](https://github.com/huanglinqing123/SlideDeleteListView/blob/master/image/delete.png)
+     ![avatar](http://pdqk4k9f6.bkt.clouddn.com/delete.png)
 
 #### maven：
      <dependency>
