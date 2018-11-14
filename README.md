@@ -2,7 +2,7 @@
 ListView侧滑删除
 
 #### 效果图：
-     ![](/image/delete.png)
+     ![](image/delete.png)
 
 #### maven：
      <dependency>
